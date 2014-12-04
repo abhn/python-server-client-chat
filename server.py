@@ -1,7 +1,4 @@
 # Server.py
-# Abhishek Nagekar
-# Start this file before starting any servers
-# Bugs: <abhishek@nagekar.com>
 
 # Import the nessary libraries
 import socket
